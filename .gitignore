@@ -7,6 +7,35 @@
 # BlueJ files
 *.ctxt
 
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+out
+  
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build
+.gradle
+
+# Log file
+*.log
+log/
+
+# out
+**/out/
+
+# Mac
+.DS_Store
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
